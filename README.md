@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Installation
 ==========
 
@@ -9,12 +8,15 @@ On Linux or Mac systems, type `make` to build the `permutation` program. Run the
 
 Usage
 ==========
-### 1. full permutation
-![image](http://)
-### 2. specific permutation
-=======
-Permutation_Generator
-=====================
+### 1. Full Permutation
+![image](https://raw.github.com/fooozhe/Permutation_Generator/master/screenshots/1.png)
+![image](https://raw.github.com/fooozhe/Permutation_Generator/master/screenshots/2.png)
 
-A Permutation Generator to implement Full Permutation and Specific Permutation.
->>>>>>> 75bb5676ad4b2827023f94db0c85a2989c5a4459
+### 2. Specific Permutation
+![image](https://raw.github.com/fooozhe/Permutation_Generator/master/screenshots/3.png)
+
+About
+==========
+
+Author:  **Zhe Fu** <fooozhe@gmail.com>
+         **Chunjie Chen** <chencj517@gmail.com>
